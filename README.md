@@ -13,4 +13,4 @@ A simple StopWatch application.
 * Familiarize myself with basic Swift syntax.
 * Implement UIButton Assets designed in [Sketch](https://www.sketchapp.com).
 
-![StopWatch Picture](dylanfrankcom/Screenshots/StopWatch Screenshot.png)
+![StopWatch Picture](~/Screenshots/StopWatch Screenshot.png)
