@@ -52,7 +52,7 @@ class ViewController: UIViewController {
     }
     
     // Update counter and timerDisplay
-    func updateTimer() {
+    @objc func updateTimer() {
         counter = counter + 0.1
         timerDisplay.text = String(format: "%.1f", counter) // Looking for a swiftier way to format.
     
